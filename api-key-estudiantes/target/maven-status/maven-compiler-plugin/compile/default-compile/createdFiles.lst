@@ -1,0 +1,6 @@
+com\curso\estudiantes\repository\InMemoryStudentRepository.class
+com\curso\estudiantes\repository\StudentRepository.class
+com\curso\estudiantes\ApiEstudiantesApplication.class
+com\curso\estudiantes\model\Student.class
+com\curso\estudiantes\service\StudentService.class
+com\curso\estudiantes\controller\StudentController.class
